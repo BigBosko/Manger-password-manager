@@ -1,4 +1,4 @@
-Manger - a password manager
+Manger - a password manager (Project is still in very early development)
 
 A secure, cross-platform, Zero-Knowledge password manager built with Python and Kotlin. This project features a desktop client, Android app, and a server sync, all communicating via a strict Zero-Knowledge architecture with end-to-end encryption.
 
